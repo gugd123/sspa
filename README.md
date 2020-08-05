@@ -20,3 +20,10 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/gugd123/sspa/m
 ```bash
 wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash ssr.sh
 ```
+佰阅一键安装工具箱：
+```bash
+bash <(curl -L -s git.io/baiyue_onekey)
+```
+```bash
+bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/baiyue_onekey/master/go.sh)
+```
