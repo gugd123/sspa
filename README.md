@@ -13,4 +13,4 @@ wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/node
 佰阅sspanel后端破解版
 ```bash
 wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash node.sh
-``
+```
