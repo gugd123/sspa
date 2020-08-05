@@ -27,3 +27,7 @@ bash <(curl -L -s git.io/baiyue_onekey)
 ```bash
 bash <(curl -L -s https://raw.githubusercontent.com/Baiyuetribe/baiyue_onekey/master/go.sh)
 ```
+自己备份：
+```bash
+bash <(curl -L -s https://raw.githubusercontent.com/gugd123/sspa/master/go_2.sh)
+```
