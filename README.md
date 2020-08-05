@@ -15,7 +15,7 @@ wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/node
 wget -N --no-check-certificate "https://raw.githubusercontent.com/linux-terminal/ssr-node/master/ssr.sh" && bash ssr.sh
 ```
 ```bash
-wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash ssr.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/gugd123/sspa/master/ssr.sh" && bash ssr.sh
 ```
 ```bash
 wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash ssr.sh
