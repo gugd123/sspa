@@ -12,5 +12,11 @@ wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/node
 ```
 佰阅sspanel后端破解版
 ```bash
-wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash node.sh
+wget -N --no-check-certificate "https://raw.githubusercontent.com/linux-terminal/ssr-node/master/ssr.sh" && bash ssr.sh
+```
+```bash
+wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash ssr.sh
+```
+```bash
+wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash ssr.sh
 ```
