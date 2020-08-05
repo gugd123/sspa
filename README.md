@@ -10,3 +10,7 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/linux-terminal
 ```bash
 wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/node_2.sh" && bash node.sh
 ```
+佰阅sspanel后端破解版
+```bash
+wget -N --no-check-certificate "https://github.com/gugd123/sspa/blob/master/ssr.sh" && bash node.sh
+``
