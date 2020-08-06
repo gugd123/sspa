@@ -35,3 +35,7 @@ bash <(curl -L -s https://raw.githubusercontent.com/gugd123/sspa/master/go_2.sh)
 ```bash
 mkdir v2ray-agent && cd v2ray-agent && curl http://ht.vpn8.us/free/install.sh -o install.sh && chmod +x install.sh && bash install.sh
 ```
+自己安装备份：
+```bash
+mkdir v2ray-agent && cd v2ray-agent && curl https://raw.githubusercontent.com/gugd123/sspa/master/install.sh && chmod +x install.sh && bash install.sh
+``
